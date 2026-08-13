@@ -2,12 +2,10 @@
 
 I am an AI and Machine Learning Engineer with a background in Electrical Engineering, specializing in:
 
-- 🤖 Machine Learning & Deep Learning
-- 👁️ Computer Vision & Explainable AI (XAI)
-- ⚡ Embedded AI & Edge ML
-- 🧠 Generative AI & Large Language Models
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🚀 Production-ready AI Applications
+- Machine Learning & Deep Learning
+- Generative AI & Large Language Models
+- Edge AI
+- Production-ready AI Applications
 
 I enjoy building end-to-end AI systems, from data processing and model training to deployment on embedded hardware and real-world applications.
 
@@ -15,9 +13,9 @@ I am currently looking for Junior/Entry-Level opportunities in:
 
 - AI Engineer
 - Machine Learning Engineer
-- Computer Vision Engineer
-- Embedded AI / Edge AI Engineer
 - Generative AI / LLM Engineer
+- Computer Vision Engineer
+
 
 ✅ Work Authorization in Germany  
 ✅ Ready to Relocate Anywhere in Germany  
