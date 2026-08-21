@@ -18,7 +18,7 @@ I am currently looking for Junior/Entry-Level opportunities in:
 
 
 ✅ Work Authorization in Germany  
-✅ Ready to Relocate Anywhere in Germany  
+✅ Ready to Relocate Anywhere in Europe  
 ✅ Available Immediately
 
 
